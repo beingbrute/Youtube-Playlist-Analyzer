@@ -81,3 +81,6 @@ A powerful React application that helps you analyze YouTube playlists, track you
 - [Lucide Icons](https://lucide.dev/) for beautiful icons
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Chart.js](https://www.chartjs.org/) for data visualization
+
+## Project OverView
+![yt home screen](https://github.com/user-attachments/assets/ed1c13b1-d47f-421a-8561-49e1730dbf2c)
