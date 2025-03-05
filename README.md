@@ -1,6 +1,6 @@
 # Youtube-Playlist-Analyzer
 
-##Description
+## Description:
 YouTube Playlist Analyzer is a web application designed to help users analyze and track YouTube playlists efficiently. It provides detailed insights, including total duration, video count, and category breakdown. Users can track progress by marking videos as watched or unwatched, sorting videos by various criteria, and exporting playlist data as JSON. With a responsive design and dark/light mode toggle, the app ensures a seamless and user-friendly experience.
 
 ## Project Link: https://keen-crepe-28fcb9.netlify.app/
